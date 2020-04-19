@@ -1,6 +1,7 @@
 - This is an ecommerce ReactJS project
 - The project uses ReactRouter, and Sass.
 - You can sign in with your google account (Firebase).
+- Redux in on the work currently !
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
